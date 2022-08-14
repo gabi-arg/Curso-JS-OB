@@ -1,2 +1,4 @@
-Curso de Basico de Javascript
+Curso de Basico de Javascript.
+
+
 Curso dictado por la plataforma Open Bootcamp
