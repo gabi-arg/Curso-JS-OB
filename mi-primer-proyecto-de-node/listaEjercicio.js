@@ -8,13 +8,13 @@ arraySuper.pop('Aceite de Girasol')
 
 //- Una lista de tus 3 películas favoritas (objetos con propiedades: titulo, director, fecha)
 arrayPelisFavoritas = [
-    {  titulo: 'Iron Man' , 
+      {  titulo: 'Iron Man' , 
        director: 'Jon Favreau',
        fecha: 2008  },
-    {  titulo: 'The Avengers' , 
+      {  titulo: 'The Avengers' , 
        director: ' Joss Whedon',
        fecha: 2012  },
-    {  titulo: 'Avengers: Endgame' , 
+      {  titulo: 'Avengers: Endgame' , 
        director: 'Joe Russo',
        fecha: 2019  }
 ]
